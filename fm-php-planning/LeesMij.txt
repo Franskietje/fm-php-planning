@@ -1,0 +1,5 @@
+Dit in Terminal window.
+php -S localhost:8000
+
+Dit in browser --> login.
+http://localhost:8000/login.php
